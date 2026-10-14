@@ -1,0 +1,7 @@
+streamlit>=1.38,<2.0
+transformers>=4.42,<5.0
+torch
+numpy<2
+pandas
+plotly
+reportlab
